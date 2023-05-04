@@ -1,0 +1,65 @@
+---
+title: "Open Digital and Online Learning Center"
+format: 
+  pdf:
+    papersize: folio
+    geometry: "left=3cm,right=3cm,top=3cm,bottom=3cm"
+    fontsize: 12pt
+editor: visual
+author: College Of Teacher Education
+date: "`r Sys.Date()`"
+bibliography: odolc.bib
+csl: apa.csl
+---
+
+## Brief Description
+
+In line with the vision of Nueva Vizcaya State University (NVSU), the College of Teacher Education (CTE) aims to produce relevant world class teachers, research projects, and extension programs to meet the demand of 21st century education. To help the college achieve these noble goals, the establishment of the Open Digital and Online Learning Center (ODOLC) is proposed.
+
+The ODOLC will serve as a hub for open, collaborative, innovative, and interactive learning experiences that utilize state of the art open digital and online learning technology in various forms. It will also serve as a research and development center for open educational technology, open ICT in education and teacher education, open distance learning (ODL), open educational resources (OERs), AI and data science in education and teacher education, reproducible research, and the use of technology to better understand students' learning process from pre-school to graduate school [@dll]. It will also serve as a hub for training and extension programs on the said topics. Open and collaboration will be the overall theme.
+
+The proposal is inspired by the Digital Learning Lab of the University of California, Irvine [@dll]. In their website, they have the slogans "Transform teaching and learning with innovative research in educational technology" and "Motivate students to learn with best practices in digital learning".
+
+## Legal Framework
+
+Open distance learning (ODL) is the future. RA 10650 of 2014, also known as the Open Distance Learning Act, supports the institutionalization of ODL for tertiary education and offers funding. RA 11448 of 2019, also known as the Transnational Higher Education Act (TNHE) defined open distance learning (ODL) as one of the modes of TNHE. The ODOLC will be a center for research and development of ODL platforms and OERs.
+
+To make the curriculum outcomes-based, in 2017, the Commission on Higher Education (CHED) revised the higher education curriculum. The curriculum of the programs offered in CTE were revised and the courses Technology for Teaching and Learning (TTL) 1 and 2 are professional education and major courses respectively required in each program [@CMO_74_17; @CMO_75_17; @CMO_76_17; @CMO_78_17; @CMO_79_17; @CMO_80_17; @CMO_82_17]. These subjects require computer laboratories. Further more, some major courses of some programs (ex. BSEd Mathematics; geometry, calculus, and statistics subjects, etc.) need computer laboratories. The ODOLC will serve as a computer laboratory for these courses. It will help improve the curriculum and make it 21st century ready. 
+
+On the other hand, the importance and necessity of open digital and online learning can never be understated during the COVID pandemic. During the pandemic, the use of open digital and online media in the teaching and learning process became relevant. It greatly facilitated the implementation of flexible learning [@CMO_4_20].
+
+Moreover, RA 11927 of 2022, also know as the Philippine Digital Workforce Competitiveness ACT, promotes and supports the development of human resources that are equipped with digital skills and competencies that are comparable with global standards. The CTE with the proposed ODOLC can greatly contribute to this cause. Graduates of CTE will be equipped with digital skills. These digitally competitive teachers will promote digital literacy in the basic education.
+
+## Statement of Vision
+
+A sustainable and state of the art ODOLC that leads in promoting and practicing open and collaborative digital and online learning experience.
+
+## Statement of Mission
+
+To produce globally relevant and competitive teachers and to improve the teaching and learning process through state of the art open digital and online learning experience and also through advanced research and development, and training and extension in open educational technology, open ICT in education and teacher education, ODL, open AI and data science in education and teacher education, reproducible research, and the use of open technology to understand students' learning process from pre-school to graduate school.
+
+## Objectives
+
+1.  To establish a hub for open innovative and interactive learning experiences utilizing digital and online learning technology in various forms.
+
+2.  To promote and conduct research and development on open educational technology, open ICT in education and teacher education, ODL, open AI and data science in education and teacher education, reproducible research, and the use of open technology to understand students' learning process from pre-school to graduate school.
+
+3.  To provide training and extension programs on the said topics.
+
+4.  To collaborate with other groups in the country and abroad to forge linkages for collaboration in research and extension and student internship.
+
+5.  To produce globally relevant and competitive teachers who are equipped with digital skills and competencies that are comparable with global standards.
+
+## Strategic Goals
+
+1.  To establish a sustainable and state-of-the-art ODOLC that promotes open and collaborative digital and online learning experiences and form linkages for funding.
+
+2.  To improve the teaching and learning process through state-of-the-art open digital and online learning experiences through collaborative research and extension.
+
+3.  To promote digital literacy in basic education through the production of digitally competitive teachers.
+
+4.  To contribute to the development of human resources that are equipped with digital skills and competencies comparable to global standards.
+
+{{< pagebreak >}}
+
+# References
