@@ -28,11 +28,11 @@ The ODOLC will serve as a hub for [**open, collaborative, innovative, and intera
 
 ::: columns
 ::: {.column width="50%"}
-![](github2.png){width="50%"} ![](julia.png){width="20%"} ![](octave.png){width="20%"} ![](r.png){width="20%"} ![](rstudio.png){width="20%"} ![](quarto.png){width="50%"} ![](latex.png){width="30%"} ![](miktex.png){width="30%"}
+![](pics/github2.png){width="50%"} ![](pics/julia.png){width="20%"} ![](pics/octave.png){width="20%"} ![](pics/r.png){width="20%"} ![](pics/rstudio.png){width="20%"} ![](pics/quarto.png){width="50%"} ![](pics/latex.png){width="30%"} ![](pics/miktex.png){width="30%"}
 :::
 
 ::: {.column width="50%"}
-![](upou.png) ![](fbms.jpg){width="20%"} ![](edx.png){width="30%"} ![](canva.png){width="15%"} ![](chatgpt.png){width="30%"} ![](hugo.png){width="30%"} ![](netlify.png){width="20%"} ![](yt.png){width="20%"} ![](gd.png){width="20%"}
+![](pics/upou.png) ![](pics/fbms.jpg){width="20%"} ![](pics/edx.png){width="30%"} ![](pics/canva.png){width="15%"} ![](pics/chatgpt.png){width="30%"} ![](pics/hugo.png){width="30%"} ![](pics/){width="20%"} ![](pics/yt.png){width="20%"} ![](pics/gd.png){width="20%"}
 :::
 :::
 
@@ -42,17 +42,17 @@ The ODOLC will serve as a hub for [**open, collaborative, innovative, and intera
 It will also serve as a research and development center for **open educational technology, open ICT in education and teacher education, open distance learning (ODL), open educational resources (OERs), AI and data science in education and teacher education, reproducible research, and the use of technology to better understand students' learning process from pre-school to graduate school** [@dll]. It will also serve as a hub for training and extension programs on the said topics.
 :::
 
-![](posit1.png){fig-align="center"}
+![](pics/posit1.png){fig-align="center"}
 
 ## 
 
 ::: columns
 ::: {.column width="50%"}
-![](journal2.png){width="70%"}
+![](pics/journal2.png){width="70%"}
 :::
 
 ::: {.column width="50%"}
-![](journal5.jpg){width="70%"}
+![](pics/journal5.jpg){width="70%"}
 :::
 :::
 
@@ -76,17 +76,17 @@ The proposal is inspired by the Digital Learning Lab of the University of Califo
 
 ::: columns
 ::: {.column width="50%"}
-![](DLL.png){fig-align="center" width="80%"}
+![](pics/DLL.png){fig-align="center" width="80%"}
 :::
 
 ::: {.column width="50%"}
-![](DLL1.png){fig-align="center" width="80%"}
+![](pics/DLL1.png){fig-align="center" width="80%"}
 :::
 :::
 
 ##
 
-![](DLL2.png){fig-align="center" width="80%"}
+![](pics/DLL2.png){fig-align="center" width="80%"}
 
 # Legal Framework
 
