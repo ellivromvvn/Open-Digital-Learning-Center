@@ -1,10 +1,6 @@
 ---
 title: "Educational Technology Center"
-format: 
-  pdf:
-    papersize: folio
-    geometry: "left=3cm,right=3cm,top=3cm,bottom=3cm"
-    fontsize: 12pt
+format: docx
 editor: visual
 author: College Of Teacher Education
 date: "`r Sys.Date()`"
@@ -16,7 +12,14 @@ csl: apa.csl
 
 In line with the vision of Nueva Vizcaya State University (NVSU), the College of Teacher Education (CTE) aims to produce relevant world class teachers, research projects, and extension programs to meet the demand of 21st century education. To help the college achieve these noble goals, the establishment of the Educational Technology Center (ETC) is proposed. The ETC will serve as a hub for collaborative, innovative, and interactive learning experiences that utilize state of the art educational technologies. It will serve as a research and development, training and extension center for educational technology.
 
-In the article entitled "Long Waves: The History of Innovation Cycles", @neufeld22 explained that we are now transitioning from the fifth wave to the sixth wave of innovation. The sixth wave of innovation is also known as the fourth industrial revolution [@schwab16]. These developments range from digital network, software, and new media to digitization (AI, IoT, AV, Robots and Drones) and clean tech and have created a demand for 21st century skills from graduates both in the basic education and tertiary education. In response to this, education sectors in the country have implemented significant changes in the education system. A significant change in the basis education curriculum is the implementation of K to 12 by the the Department of Education (DepEd). On the other hand, the Commission on Higher Education (CHED) revised the higher education curriculum in 2017 making it outcomes-based so to be aligned with the K to 12 curriculum. The curriculum revision resulted to the following program outcomes for teacher education: a) Articulate the rootedness of education in philosophical, socio-cultural, historical, psychological, and political contexts b) Demonstrate mastery of subject matter/discipline c) Facilitate learning using a wide range of teaching methodologies and delivery modes appropriate to specific learners and their environments d) Develop innovative curricula, instructional plans, teaching approaches, and resources for diverse learners e) Apply skills in the development and utilization of ICT to promote quality, relevant, and sustainable educational practices f) Demonstrate a variety of thinking skills in planning, monitoring, assessing, and reporting learning processes and outcomes g) Practice professional and ethical teaching standards sensitive to the local, national, and global realities h) Pursue lifelong learning for personal and professional growth through  varied experiential and field-based opportunities. 
+In the article entitled "Long Waves: The History of Innovation Cycles," @neufeld22 explains that we are now transitioning from the fifth wave to the sixth wave of innovation. The sixth wave of innovation is also known as the fourth industrial revolution [@schwab16]. As explained by @neufeld22, the transition is from digital networks, software, and new media to digitization (AI, IoT, AV, Robots, and Drones) and clean tech. These developments have created a demand for 21st-century skills from graduates in both basic and tertiary education. These changes are revolutionizing education all over the world.
+
+In response, the education sector in the country implemented significant changes in the education system. One significant change in the basic education curriculum is the implementation of K to 12 by the Department of Education (DepEd). On the other hand, the Commission on Higher Education (CHED) revised the higher education curriculum in 2017, making it outcomes-based and aligning it with the K to 12 curriculum.
+
+The curriculum revision done by CHED resulted to the following program outcomes for teacher education: a) Articulate the rootedness of education in philosophical, socio-cultural, historical, psychological, and political contexts b) Demonstrate mastery of subject matter/discipline c) Facilitate learning using a wide range of teaching methodologies and delivery modes appropriate to specific learners and their environments d) Develop innovative curricula, instructional plans, teaching approaches, and resources for diverse learners e) Apply skills in the development and utilization of ICT to promote quality, relevant, and sustainable educational practices f) Demonstrate a variety of thinking skills in planning, monitoring, assessing, and reporting learning processes and outcomes g) Practice professional and ethical teaching standards sensitive to the local, national, and global realities h) Pursue lifelong learning for personal and professional growth through  varied experiential and field-based opportunities. 
+
+
+
 
 
 
